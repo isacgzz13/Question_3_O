@@ -1,2 +1,2 @@
 # HERE YOU NEED TO GET AN API KEY FROM RAPIDAPI
-cred_realty_in_us <- 'INSERT_API_KEY_HERE'
+cred_realty_in_us <- '241cb7031bmsh972ae16c32eb2ecp159715jsn96e79762ca22'
